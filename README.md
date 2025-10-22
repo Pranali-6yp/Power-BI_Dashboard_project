@@ -23,7 +23,7 @@ This Power BI project focuses on analysing Blinkit’s sales data to gain action
 •	Dynamic visuals for easy trend analysis
 
 # How to Use
-Data : https://github.com/Pranali-6yp/Power-BI_Dashboard_project/blob/main/BlinkIT%20Grocery%20Data%20Excel.csv <br>
+Data : <a href= "https://github.com/Pranali-6yp/Power-BI_Dashboard_project/blob/main/BlinkIT%20Grocery%20Data%20Excel.csv" </a> <br>
 Dashboard : Power BI file (.pbix) of the project <br>
 Images : Contains screenshots of the project for easy preveiw
 
