@@ -25,7 +25,8 @@ This Power BI project focuses on analysing Blinkit’s sales data to gain action
 # How to Use
 Data : <a href= "https://github.com/Pranali-6yp/Power-BI_Dashboard_project/blob/main/BlinkIT%20Grocery%20Data%20Excel.csv" </a> <br>
 Dashboard : <a href= "https://github.com/Pranali-6yp/Power-BI_Dashboard_project/blob/main/Blinkit_Sales_Dashboard.pbix" </a> <br>
-Images : Contains screenshots of the project for easy preveiw
+Images : ![Blinkit_Sales_Dashboard](https://github.com/user-attachments/assets/a4ef96c9-f0fe-4832-86bb-a70689ab28cc)
+
 
 # Conclusion
 The Blinkit Sales Dashboard provides valuable insights into sales distribution and product performance. It can be used by business stakeholders to optimize product placement, improve sales strategies, and enhance customer engagement.
