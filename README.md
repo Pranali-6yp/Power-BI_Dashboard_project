@@ -11,20 +11,20 @@ This Power BI project focuses on analysing Blinkit’s sales data to gain action
 •	Provide key insights to support business and marketing decisions
 
 # Key Insights
-•	Supermarket outlets outperform grocery stores in total sales
-•	Fruits & snacks are among the top-selling product categories
-•	Higher item visibility directly impacts sales performance
+•	Supermarket outlets outperform grocery stores in total sales <br>
+•	Fruits & snacks are among the top-selling product categories <br>
+•	Higher item visibility directly impacts sales performance <br>
 •	Recently established outlets show increasing growth trends
 
 # Dashboard Features
-•	Interactive filters by outlet type, item type, and year
-•	KPI cards displaying total sales, average sales, and outlet count
-•	Category-wise and outlet-type comparisons
+•	Interactive filters by outlet type, item type, and year <br>
+•	KPI cards displaying total sales, average sales, and outlet count <br>
+•	Category-wise and outlet-type comparisons <br>
 •	Dynamic visuals for easy trend analysis
 
 # How to Use
-Data : https://github.com/Pranali-6yp/Power-BI_Dashboard_project/blob/main/BlinkIT%20Grocery%20Data%20Excel.csv
-Dashboard : Power BI file (.pbix) of the project
+Data : https://github.com/Pranali-6yp/Power-BI_Dashboard_project/blob/main/BlinkIT%20Grocery%20Data%20Excel.csv <br>
+Dashboard : Power BI file (.pbix) of the project <br>
 Images : Contains screenshots of the project for easy preveiw
 
 # Conclusion
